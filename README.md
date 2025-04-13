@@ -14,7 +14,7 @@ It is built with a modular design to promote maintainability, and it employs rob
 - **C/C++ Extension by Microsoft**: Available in the VS Code Extensions Marketplace.
 - **GCC Compiler**: Ensure you have GCC installed on your system (e.g., via MinGW on Windows or using a package manager on Linux/Mac).
 
-Technical Explanation
+##Technical Explanation
 Stack-Based Evaluation:
 The evaluator uses a linked list to implement a stack. Each node (an Operand) stores a double value and a pointer to the next node.
 
